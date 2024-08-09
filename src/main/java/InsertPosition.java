@@ -28,6 +28,6 @@ public class InsertPosition {
                 right = mid-1;
             }
         }
-        return -1;
+        return left;
     }
 }
